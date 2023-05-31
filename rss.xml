@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias Playica</title>
+        <description>Noticiero donde se muestra todas las novedades de playica team</description>
+        <link>www.playica.com</link>
+
+        <item>
+            <title>Navaro ha declarado que es homosexual confirmado asi las soxpechas de todos</title>
+            <description>"Si, soy maricon" dijo en un audio</description>
+            <link>http://www.sitioquepublica.com/contenido.html</link>
+        </item>
+    </channel>
+</rss>
